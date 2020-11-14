@@ -1,0 +1,139 @@
+/* Cards for homepage */
+
+      /*Flex cards*/
+.cards-homepage {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 80px;
+}
+
+.card-homepage {
+  width: 345px;
+  height: 384px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
+  border-radius: 4px;
+  align-items: center;
+  overflow: hidden;
+
+}
+
+      /*Flex designed content in cards*/
+
+.card-homepage-title {
+  display: flex;
+  flex-direction: column;
+  flex: 1 0 0;
+}
+.card-homepage-head {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  align-items: center;
+  margin: 5px;
+}
+.card-profile-homepage {
+  height: 50px;
+  width: 50px;
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 50%;
+  margin: auto 20px;
+  }
+.card-homepage-title h2 {
+  margin: 0px 0px;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: medium;
+}
+.card-age-homepage {
+  margin: 0px 0px;
+  font-family: Roboto;
+  font-size: 14px;
+}
+.card-desc-homepage {
+  margin: 10px;
+  font-family: Roboto;
+  font-size: 14px;
+}
+
+/* Cards for homepage-logged */
+
+/* Cards for formpage-search */
+
+/* Cards for formpage-search-logged */
+
+/* Cards for formpage-propose-logged */
+
+/* Cards for resultspage */
+
+      /*Flex cards*/
+.cards-resultspage {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 80px;
+}
+
+.card-resultspage {
+  width: 345px;
+  height: 384px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
+  border-radius: 4px;
+  align-items: center;
+  overflow: hidden;
+
+}
+
+      /*Flex designed content in cards*/
+
+.card-resultspage-title {
+  display: flex;
+  flex-direction: column;
+  flex: 1 0 0;
+}
+.card-resultspage-head {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  align-items: center;
+  margin: 5px;
+}
+.card-profile-resultspage {
+  height: 50px;
+  width: 50px;
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 50%;
+  margin: auto 20px;
+  }
+.card-resultspage-title h2 {
+  margin: 0px 0px;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: medium;
+}
+.card-age-resultspage {
+  margin: 0px 0px;
+  font-family: Roboto;
+  font-size: 14px;
+}
+.card-desc-resultspage {
+  margin: 10px;
+  font-family: Roboto;
+  font-size: 14px;
+}
+
+/* Cards for resultspage-logged */
+
+/* Cards for productpage */
+
+/* Cards for productpage-logged */
+
+/* Cards for myproduct */
+
+/* Cards for signup-search */
+
+/* Cards for signup-propose */
+
+/* Cards for bookingpage */
