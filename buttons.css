@@ -4,7 +4,8 @@
   justify-content: space-around;
   align-items: center;
 }
-.btn-white-homepage {
+
+.btn-homepage {
   box-shadow: 0px 10px 30px rgba(0, 0,0,0.2);
   border-radius: 6px;
   background-color: #F29898;
@@ -12,19 +13,17 @@
   height: 106px;
   color:white;
   margin: auto;
+  display: block;
   font-family: Roboto;
   font-size: 30px;
   text-align: center;
   text-decoration-line: blink;
-
-
+  line-height: 100px;
 }
-.btn-white-homepage:hover {
+
+.btn-homepage:hover {
   background-color: #CF1717;
 }
-
-
-
 
 
 /* Button for homepage-logged */
@@ -36,6 +35,25 @@
 /* Button for formpage-propose-logged */
 
 /* Button for resultspage */
+.btn-resultspage {
+  box-shadow: 0px 10px 30px rgba(0, 0,0,0.2);
+  border-radius: 6px;
+  background-color: #F29898;
+  width: 299px;
+  height: 71px;
+  color:white;
+  margin: auto;
+  display: block;
+  font-family: Roboto;
+  font-size: 30px;
+  text-align: center;
+  text-decoration-line: blink;
+  line-height: 70px;
+}
+
+.btn-resultspage:hover {
+  background-color: #CF1717;
+}
 
 /* Button for resultspage-logged */
 
