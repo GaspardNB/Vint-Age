@@ -36,6 +36,58 @@
 .productpage {
 
 }
+.toppage_product {
+display: flex;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 56px;
+color: #000000;
+}
+
+
+.productinfo_prooductpage {
+display: flex;
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+}
+
+.contact_homepage{
+position: absolute;
+width: 433px;
+height: 549px;
+left: 1012px;
+top: 296px;
+}
+
+.info_homepage {
+position: absolute;
+width: 725px;
+height: 695px;
+left: 94px;
+top: 294px;
+line-height: 25px
+text-align:justify;
+}
+
+h1 {
+position: absolute;
+width: 677px;
+height: 66px;
+left: 90px;
+top: 165px;
+}
+
+.star {
+display: flex;
+
+
+}
+
 
 .productpage-logged {
 
