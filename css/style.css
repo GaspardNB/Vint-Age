@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css?family=Lora|Roboto");
+@import url("components/container.css");
+@import url("components/navbar.css");
+@import url("components/buttons.css");
+@import url("components/banner.css");
+@import url("components/cards.css");
+
+.homepage {
+
+}
+
+.homepage-logged {
+
+}
+
+.formpage-search {
+
+}
+
+.formpage-search-logged {
+
+}
+
+.formpage-propose-logged {
+
+}
+
+.resultspage {
+
+}
+
+.resultspage-logged {
+
+}
+
+.productpage {
+
+}
+
+.productpage-logged {
+
+}
+
+.myproductpage {
+
+}
+
+.signup-search {
+
+}
+
+.signup-propose {
+
+}
+
+.bookingpage {
+
+}
