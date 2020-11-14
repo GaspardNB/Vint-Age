@@ -127,6 +127,16 @@
 /* Cards for resultspage-logged */
 
 /* Cards for productpage */
+.card-productpage-title 
+h1 { 
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: medium;
+  margin-left: 2000px
+  margin:20px ;
+  margin-left: 20px;
+}
+
 
 /* Cards for productpage-logged */
 
