@@ -59,6 +59,32 @@
 /* Button for resultspage-logged */
 
 /* Button for productpage */
+.btn-white-productpage {
+  box-shadow: 0px 10px 30px rgba(0, 0,0,0.2);
+  border-radius: 6px;
+  background-color: #F29898;
+  width: 210pX;
+  height: 80px;
+  color:white;
+  margin: auto;
+  font-family: Roboto;
+  font-size: 30px;
+  text-align: center;
+  text-decoration-line: blink;
+
+}
+.btn-white-productpage:hover {
+  background-color: #CF1717;
+}
+
+.btn-white-productpage {
+position: absolute;
+width: 237px;
+height: 69px;
+left: 1100px;
+top: 159px;
+
+}
 
 /* Button for productpage-logged */
 
