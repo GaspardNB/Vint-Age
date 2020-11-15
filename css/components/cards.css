@@ -57,6 +57,26 @@
   font-size: 14px;
 }
 
+.card-stars-homepage {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card-stars-homepage h2 {
+  margin: 0px 0px;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: lighter;
+  margin-left: 10px;
+}
+
+.card-stars-homepage img {
+  width: 162px;
+  height: 29px;
+  margin-right: 10px;
+}
+
 /* Cards for homepage-logged */
 
 /* Cards for formpage-search */
@@ -124,13 +144,13 @@
   font-size: 14px;
 }
 
-.card-stars-homepage {
+.card-stars-resultspage {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 
-.card-stars-homepage h2 {
+.card-stars-resultspage h2 {
   margin: 0px 0px;
   font-family: Roboto;
   font-size: 20px;
@@ -138,7 +158,7 @@
   margin-left: 10px;
 }
 
-.card-stars-homepage img {
+.card-stars-resultspage img {
   width: 162px;
   height: 29px;
   margin-right: 10px;
@@ -201,6 +221,26 @@
   margin: 10px;
   font-family: Roboto;
   font-size: 14px;
+}
+
+.card-stars-resultspage {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card-stars-resultspage h2 {
+  margin: 0px 0px;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: lighter;
+  margin-left: 10px;
+}
+
+.card-stars-resultspage img {
+  width: 162px;
+  height: 29px;
+  margin-right: 10px;
 }
 
 /* Cards for productpage */
