@@ -87,19 +87,19 @@
 
       /*Flex designed content in cards*/
 
-.card-resultspage-title {
+.card-homepage-title {
   display: flex;
   flex-direction: column;
   flex: 1 0 0;
 }
-.card-resultspage-head {
+.card-homepage-head {
   display: flex;
   flex-direction: row-reverse;
   justify-content: space-between;
   align-items: center;
   margin: 5px;
 }
-.card-profile-resultspage {
+.card-profile-homepage {
   height: 50px;
   width: 50px;
   max-width: 100%;
@@ -107,21 +107,41 @@
   border-radius: 50%;
   margin: auto 20px;
   }
-.card-resultspage-title h2 {
+.card-homepage-title h2 {
   margin: 0px 0px;
   font-family: Roboto;
   font-size: 20px;
   font-weight: medium;
 }
-.card-age-resultspage {
+.card-age-homepage {
   margin: 0px 0px;
   font-family: Roboto;
   font-size: 14px;
 }
-.card-desc-resultspage {
+.card-desc-homepage {
   margin: 10px;
   font-family: Roboto;
   font-size: 14px;
+}
+
+.card-stars-homepage {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card-stars-homepage h2 {
+  margin: 0px 0px;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: lighter;
+  margin-left: 10px;
+}
+
+.card-stars-homepage img {
+  width: 162px;
+  height: 29px;
+  margin-right: 10px;
 }
 
 /* Cards for resultspage-logged */
