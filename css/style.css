@@ -158,3 +158,115 @@ display: flex;
 	margin-bottom: 1.5rem;
 }
 
+.contactpage  {
+
+.justine {
+position: absolute;
+width: 220.85px;
+height: 220px;
+left: 389px;
+top: 244px;
+}
+
+.textejustine {
+position: absolute;
+width: 274px;
+height: 31px;
+left: 373px;
+top: 496px;
+font-family: Roboto;
+font-style: normal;
+font-size: 20px;
+line-height: 35px;
+text-align: center;
+color: #000000;
+margin: 30px
+}
+
+.mia {
+position: absolute;
+width: 220.85px;
+height: 220px;
+left: 856px;
+top: 244px;
+}
+.textemia {
+position: absolute;
+width: 237px;
+height: 54px;
+left: 847px;
+top: 497px;
+font-family: Roboto;
+font-style: normal;
+font-size: 20px;
+line-height: 35px;
+text-align: center;
+color: #000000;
+margin: 30px
+}
+.gaspard {
+position: absolute;
+width: 220.85px;
+height: 220px;
+left: 400px;
+top: 579px;
+}
+.textegaspard {
+position: absolute;
+width: 336px;
+height: 64px;
+left: 331px;
+top: 838px;
+font-family: Roboto;
+font-style: normal;
+font-size: 20px;
+line-height: 35px;
+text-align: center;
+color: #000000;
+margin: 30px
+}
+.mathieu {
+position: absolute;
+width: 220.85px;
+height: 220px;
+left: 856px;
+top: 579px;
+}
+.textemathieu{
+position: absolute;
+width: 273px;
+height: 49px;
+left: 832px;
+top: 838px;
+
+font-family: Roboto;
+font-style: normal;;
+font-size: 20px;
+line-height: 35px;
+text-align: center;
+color: #000000;
+margin: 30px
+}
+
+.photoprofile{
+border-radius: 173px;
+}
+
+.titre {
+/* Contact and discover our team */
+position: absolute;
+width: 677px;
+height: 66px;
+left: 428px;
+top: 100px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 56px;
+text-align: center;
+color: #000000;
+}
+}
+
