@@ -25,9 +25,24 @@
 
 }
 
-.resultspage {
-
+/* resultspage */
+.head-resultspage {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
 }
+
+.head-resultspage a {
+  margin-right: 60px;
+}
+
+.head-resultspage h1 {
+  margin-left: 60px;
+  font-family: Roboto;
+}
+
+
 
 .resultspage-logged {
 
