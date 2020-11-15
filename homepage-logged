@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+    <title>Vint'Age - Home page</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+
+ <body class="homepage">
+<!-- Container de la page entière -->
+    <div class="container">
+<!-- Navbar -->
+      <div class="navbar">
+        <div>
+          <a id="logo" href="#homepage"><img src="images/logo.png" alt="vintage-logo"></a>
+        </div>
+        <div class="icons">
+          <ul>
+            <li><img src="images/navbar-notification.png" alt="navbar-notification">
+            </li>
+            <li>
+              <a href="#aboutus"><img src="images/navbar-message.png" alt="navbar-message"></a>
+            </li>
+            <li><img src="images/navbar-robert.png" alt="navbar-robert.png">
+            </li>
+            <li><img src="images/navbar-settings.png" alt="navbar-settings">
+            </li>
+          </ul>
+        </div>
+      </div>
+<!-- Bannière -->
+      <div class="banner-homepage">
+        <img src="images/banner-homepage.png" alt="banner">
+      </div>
+<!-- Bouton de recherche de collocation -->
+    <div class="buttons-homepage">
+        <a href="#search" class="btn-homepage">Search a collocation</a>
+<!-- Bouton pour proposer une collocation -->
+        <a href="#propose" class="btn-homepage">Propose a collocation</a>
+    </div>
+    <div>
+      <h1 id="proposition-homepage">Some collocations that may interest you</h1>
+    </div>
+<!-- Listes de collocations possible -->
+      <div class="cards-homepage">
+        <div class="card-homepage">
+          <div class="card-homepage-head">
+            <div class="card-homepage-title">
+              <h2>Martine</h2>
+              <p class="card-age-homepage" >64 years old</p>
+            </div>
+            <img src="images/profile-martine.png" alt="Martine's profile picture" class="card-profile-homepage">
+          </div>
+            <img src="images/house-martine.png" alt="Martine's collocation" class="card-img-homepage">
+            <p class="card-desc-homepage">BOSTON: Martine offers a room available immediatly in its beautiful house with garden</p>
+          <div class="card-stars-homepage">
+            <h2>View the profile</h2>
+            <img src="images/stars-five.png">
+          </div>
+        </div>
+        <div class="card-homepage">
+          <div class="card-homepage-head">
+            <div class="card-homepage-title">
+              <h2>Robert</h2>
+              <p class="card-age-homepage">79 years old</p>
+            </div>
+            <img src="images/profile-robert.jpg" alt="Robert's profile picture" class="card-profile-homepage">
+          </div>
+            <img src="images/house-robert.png" alt="Robert's collocation" class="card-img-homepage">
+            <p class="card-desc-homepage">TORONTO: Robert offers a room in his flat close to the city center available in September</p>
+          <div class="card-stars-homepage">
+            <h2>View the profile</h2>
+            <img src="images/stars-three.png">
+          </div>
+        </div>
+        <div class="card-homepage">
+          <div class="card-homepage-head">
+            <div class="card-homepage-title">
+              <h2>Ruth</h2>
+              <p class="card-age-homepage">71 years old</p>
+            </div>
+            <img src="images/profile-ruth.jpg" alt="Ruth's profile picture" class="card-profile-homepage">
+          </div>
+            <img src="images/house-ruth.png" alt="Ruth's collocation" class="card-img-homepage">
+            <p class="card-desc-homepage">ATLANTA: Ruth offers a bedroom with private bathroom in her flat with balcony</p>
+          <div class="card-stars-homepage">
+            <h2>View the profile</h2>
+            <img src="images/stars-four.png">
+          </div>
+        </div>
+       </div>
+    </div>
+  </body>
+
+</html>
