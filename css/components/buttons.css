@@ -95,3 +95,41 @@ top: 159px;
 /* Button for signup-propose */
 
 /* Button for bookingpage */
+
+.btn-orange-bookingpage , .btn-green-bookingpage{
+  text-align: center;
+  background-color: #f9f9f9;
+  display: inline-block;
+  vertical-align: top;
+  line-height: 3rem;
+  text-decoration: none;/*enlever le soulignement*/
+  color:black;
+  font-size: 36px;
+  padding: 0.5rem;
+  border-radius: 0.2rem;
+  box-shadow: 0.2rem 0.2rem 0.2rem 0 #bcbcbc;
+  min-width: 11rem;
+  font-weight: 300;
+}
+.btn-orange-bookingpage{
+  margin-right: 4rem;
+  margin-bottom: 2rem;
+}
+.btn-white-bookingpage{
+  text-align: center;
+  background-color: #f9f9f9;
+  display: block;
+  text-decoration: none;
+  color:black;
+  padding: 0.5rem;
+  line-height: 4rem;
+  border-radius: 0.2rem;
+  box-shadow: 0.2rem 0.2rem 0.2rem 0 #bcbcbc;
+  font-size: 5rem;
+  width: 20rem;
+  margin-left:4rem;
+  font-size: 44px;
+  font-weight: bold;
+  letter-spacing: 0.3em;
+}
+

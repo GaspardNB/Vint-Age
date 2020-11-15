@@ -106,5 +106,40 @@ display: flex;
 }
 
 .bookingpage {
-
 }
+.bookingpage {
+	font-family: 'Roboto', sans-serif;
+}
+.bookingpage .container-general{
+    width: 77rem;
+    padding-top: 2rem;
+	margin: 0 auto;
+}
+.bookingpage .partie-gauche{
+    display: inline-block;/*permet d'avoir des éléments les uns à côté des autres ET qui sont modifiables en taille*/
+    vertical-align: top;/*il faut toujours mettre vertcial-align:top après un display:inline-block*/
+    margin: 0;
+    width: 49%;
+}
+.bookingpage .partie-droite{
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+    width: 49%;
+}
+.bookingpage .book-description{
+    margin-left: 1rem;
+    font-weight: 300;
+}
+.bookingpage h3{
+	font-weight: normal;
+}
+.bookingpage .image-messenger{
+    width: 100%;
+}
+.bookingpage .bookingpage-title{
+	font-weight: bold;
+	font-size: 48px;
+	margin-bottom: 1.5rem;
+}
+
