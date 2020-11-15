@@ -147,3 +147,43 @@ h1 {
 /* Cards for signup-propose */
 
 /* Cards for bookingpage */
+
+.card-martine{
+  margin-bottom: 2rem;
+  height: 7rem;
+}
+.card-martine .nom{
+  display: inline-block;
+  vertical-align: top;
+  height: 7rem;
+  line-height:7rem;
+  font-size: 48px;
+  font-weight: 300;
+                    }
+.card-profile-bookingpage{
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 50%;
+  height: 7rem;
+  width: 7rem;
+  margin-left: 0;
+  margin-right: 1rem;
+}
+.card-img-homepage{
+  box-shadow: 0.25rem 0.25rem 0 0 lightgray;
+  width: 18rem;
+}
+.card-bookingpage-description{
+color:#6c6c6c;
+font-size: 1.1rem;
+max-width: 15rem;
+margin-bottom: 2rem;
+}
+.card-bookingpage-size-house{
+  color:gray;
+  margin-bottom:0;
+}
+.card-bookingpage-stars-icon{
+  width: 14rem;
+}
+
