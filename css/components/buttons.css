@@ -131,5 +131,22 @@ top: 159px;
   font-size: 44px;
   font-weight: bold;
   letter-spacing: 0.3em;
+  
+  .btn-white-formpage {
+    text-align: center;
+  background-color: #f9f9f9;
+  display: block;
+  text-decoration: none;
+  color:black;
+  padding: 0.5rem;
+  line-height: 4rem;
+  border-radius: 0.2rem;
+  box-shadow: 0.2rem 0.2rem 0.2rem 0 #bcbcbc;
+  font-size: 5rem;
+  width: 20rem;
+  margin-left:4rem;
+  font-size: 44px;
+  font-weight: bold;
+  letter-spacing: 0.3em;
 }
 
