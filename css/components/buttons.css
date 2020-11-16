@@ -132,21 +132,23 @@ top: 159px;
   font-weight: bold;
   letter-spacing: 0.3em;
   
-  .btn-white-formpage {
-    text-align: center;
-  background-color: #f9f9f9;
+  .btn-formpage-search {
+  box-shadow: 0px 10px 30px rgba(0, 0,0,0.2);
+  border-radius: 6px;
+  background-color: #F29898;
+  width: 299px;
+  height: 71px;
+  color:white;
+  margin: auto;
   display: block;
-  text-decoration: none;
-  color:black;
-  padding: 0.5rem;
-  line-height: 4rem;
-  border-radius: 0.2rem;
-  box-shadow: 0.2rem 0.2rem 0.2rem 0 #bcbcbc;
-  font-size: 5rem;
-  width: 20rem;
-  margin-left:4rem;
-  font-size: 44px;
-  font-weight: bold;
-  letter-spacing: 0.3em;
+  font-family: Roboto;
+  font-size: 30px;
+  text-align: center;
+  text-decoration-line: blink;
+  line-height: 70px;
+
 }
 
+.btn-resultspage:hover {
+  background-color: #CF1717;
+}
