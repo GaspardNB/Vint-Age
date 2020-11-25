@@ -5,6 +5,11 @@
 @import url("components/banner.css");
 @import url("components/cards.css");
 
+a, a:hover, a:focus, a:active {
+      text-decoration: none;
+      color: inherit;
+}
+
 /* Homepage */
 
 /* Homepage logged */
