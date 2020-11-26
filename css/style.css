@@ -5,25 +5,15 @@
 @import url("components/banner.css");
 @import url("components/cards.css");
 
-.homepage {
+/* Homepage */
 
-}
+/* Homepage logged */
 
-.homepage-logged {
+/* formpage-search */
 
-}
+/*formpage-search-logged */
 
-.formpage-search {
-
-}
-
-.formpage-search-logged {
-
-}
-
-.formpage-propose-logged {
-
-}
+/*formpage-propose-logged */
 
 /* resultspage */
 .head-resultspage {
@@ -44,13 +34,10 @@
 
 
 
-.resultspage-logged {
+/* resultspage-logged */
 
-}
+/* productpage */
 
-.productpage {
-
-}
 .toppage_product {
 display: flex;
 font-family: Roboto;
@@ -89,7 +76,7 @@ line-height: 25px
 text-align:justify;
 }
 
-h1 {
+toppage_product h1 {
 position: absolute;
 width: 677px;
 height: 66px;
@@ -104,24 +91,18 @@ display: flex;
 }
 
 
-.productpage-logged {
+/* productpage-logged */
 
-}
+/* myproductpage */
 
-.myproductpage {
+/* signup-search */
 
-}
 
-.signup-search {
 
-}
+/* signup-propose */
 
-.signup-propose {
+/* booking page */
 
-}
-
-.bookingpage {
-}
 .bookingpage {
 	font-family: 'Roboto', sans-serif;
 }
@@ -158,7 +139,7 @@ display: flex;
 	margin-bottom: 1.5rem;
 }
 
-.contactpage  {
+/* Contact page */
 
 .justine {
 position: absolute;

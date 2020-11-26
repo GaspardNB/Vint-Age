@@ -96,20 +96,21 @@ top: 159px;
 
 /* Button for bookingpage */
 
-.btn-orange-bookingpage , .btn-green-bookingpage{
+.btn-orange-bookingpage{
   text-align: center;
-  background-color: #f9f9f9;
+  background-color: #FFA500 ;
   display: inline-block;
   vertical-align: top;
   line-height: 3rem;
   text-decoration: none;/*enlever le soulignement*/
-  color:black;
+  color: black ;
   font-size: 36px;
   padding: 0.5rem;
   border-radius: 0.2rem;
   box-shadow: 0.2rem 0.2rem 0.2rem 0 #bcbcbc;
   min-width: 11rem;
   font-weight: 300;
+  margin-left: 7rem;
 }
 .btn-orange-bookingpage{
   margin-right: 4rem;
@@ -131,5 +132,24 @@ top: 159px;
   font-size: 44px;
   font-weight: bold;
   letter-spacing: 0.3em;
+  
+  .btn-formpage-search {
+  box-shadow: 0px 10px 30px rgba(0, 0,0,0.2);
+  border-radius: 6px;
+  background-color: #F29898;
+  width: 299px;
+  height: 71px;
+  color:white;
+  margin: auto;
+  display: block;
+  font-family: Roboto;
+  font-size: 30px;
+  text-align: center;
+  text-decoration-line: blink;
+  line-height: 70px;
+
 }
 
+.btn-resultspage:hover {
+  background-color: #CF1717;
+}
