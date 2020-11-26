@@ -158,7 +158,7 @@ bookingpage {
 }
 
 /* Chat containers */
-.container {
+.containerbookingpage{
   border: 2px solid #dedede;
   background-color: #f1f1f1;
   border-radius: 5px;
@@ -173,14 +173,14 @@ bookingpage {
 }
 
 /* Clear floats */
-.container::after {
+.containerbookingpage ::after {
   content: "";
   clear: both;
   display: table;
 }
 
 /* Style images */
-.container img {
+.containerbooking page img {
   float: left;
   max-width: 60px;
   width: 100%;
@@ -189,7 +189,7 @@ bookingpage {
 }
 
 /* Style the right image */
-.container img.right {
+.containerbookingpage img.right {
   float: right;
   margin-left: 20px;
   margin-right:0;
@@ -210,7 +210,7 @@ bookingpage {
 {box-sizing: border-box;}
 
 /* Full-width textarea */
-.form-container textarea {
+.form-containerbookingpage textarea {
   width: 100%;
   padding: 15px;
   margin: 5px 0 22px 0;
@@ -221,13 +221,13 @@ bookingpage {
 }
 
 /* When the textarea gets focus, do something */
-.form-container textarea:focus {
+.form-containerbookingpage textarea:focus {
   background-color: #ddd;
   outline: none;
 }
 
 /* Set a style for the submit button */
-.form-container .btn {
+.form-containerbookingpage .btn {
   background-color: #4CAF50;
   color: white;
   padding: 16px 20px;
@@ -239,7 +239,7 @@ bookingpage {
 }
 
 /* Add some hover effects to buttons */
-.form-container .btn:hover, .open-button:hover {
+.form-containerbookingpage .btn:hover, .open-button:hover {
   opacity: 1;
 }
 
